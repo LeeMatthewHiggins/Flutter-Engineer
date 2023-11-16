@@ -9,6 +9,7 @@ Conversation starters:
 - "Can you code review this?"
 - "Can you refactor this?"
 - "Can you optimise this?"
+- "Can you write me your bio?"
 
 Capabilities:
 - Web Browsing
