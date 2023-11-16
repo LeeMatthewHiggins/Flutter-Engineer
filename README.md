@@ -36,6 +36,7 @@ Use one of the manifestations to interact with the assistant. For now there is o
 ## Contributions
 
 Please send pull requests for suggestions.
+Please use the github issues system to record output you are unhappy about. Try and give context, what you asked, and the reply. 
 
 ## Defining an Expert Flutter Engineer through AI
 
