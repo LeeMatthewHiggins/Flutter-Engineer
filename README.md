@@ -31,11 +31,11 @@ The primary objective is to create an AI assistant that can:
 
 ## How It Works
 
-Describe the high-level functionality of the ChatGPT assistant, such as its interaction model, AI capabilities, and integration methods for providing support in Flutter projects.
+Use one of the manifestations to interact with the assistant. For now there is only a ChatGPT interface.
 
 ## Contributions
 
-Information on how individuals or organizations can contribute to the project, such as by providing feedback, suggesting new features, or sharing expertise.
+Please send pull requests for suggestions.
 
 ## Defining an Expert Flutter Engineer through AI
 
@@ -45,10 +45,6 @@ This project not only provides assistance but also aims to define what constitut
 - Knowledge of best practices in mobile UI/UX design.
 - Experience with cross-platform development challenges.
 - Proficiency in integrating and utilizing advanced AI features in Flutter.
-
-## Future Developments
-
-Discuss potential future enhancements or expansions of the project, such as integrating more advanced AI features, covering more in-depth aspects of Flutter, or expanding to other areas of mobile development.
 
 ## License
 
