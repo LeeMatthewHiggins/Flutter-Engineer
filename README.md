@@ -6,9 +6,7 @@ This project aims to develop a ChatGPT-powered assistant that provides expertise
 
 ## Manifestations
 
-OpenAI:
-https://chat.openai.com/g/g-4RzJIuppw-effective-dart-flutter-coding-assistant
-
+[Hosted on OpenAI as a ChatGPT](https://chat.openai.com/g/g-4RzJIuppw-effective-dart-flutter-coding-assistant).
 
 ## Objective
 
@@ -59,4 +57,3 @@ This project is licensed under the MIT License. For more details, please see the
 ## Contact
 
 For further information, collaborations, or queries, please contact us through our website: [We Are Mobile First](https://www.wearemobilefirst.com).
-
